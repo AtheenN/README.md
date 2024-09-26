@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **If you are a coder and trying to fix something, you might find that error after a long coding term xd**
 
+- 🌈 buzi vagyok **naponta szopom mások faszát**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/8Hgp4jze6f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8Hgp4jze6f" height="30" width="40" /></a>
